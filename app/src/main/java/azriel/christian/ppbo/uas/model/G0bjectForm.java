@@ -52,4 +52,7 @@ public protected abstract T constructModelFromValues ( String label, double [] v
 
 }
 
-public protected abstract double 
+public protected abstract double extractValuesFromModel (T model)
+
+
+
