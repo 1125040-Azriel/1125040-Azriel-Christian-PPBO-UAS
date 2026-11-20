@@ -25,5 +25,5 @@ public abstract class lvl2 extends G0bjectForm {
 
 
 public static void printG0bjectDetail {
-    
+
 }
